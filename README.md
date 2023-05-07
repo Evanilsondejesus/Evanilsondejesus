@@ -20,7 +20,7 @@ Here are some ideas to get you started:
    </head>
   <h1>Habilidades</h1>
 <ul>
-  🤔
+ 
   <li>👉 JavaScript 👈</li>
   
   <li>👉 Html 👈</li>
