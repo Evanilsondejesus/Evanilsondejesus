@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  <h1 style="color: red">Evanilson</h1>
+  <h1 style="color: red">Habilidades</h1>
 <ul>
-  
+  🤔
   <li>JavaScript</li>
   
   <li>Html</li>
