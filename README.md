@@ -18,12 +18,12 @@ Here are some ideas to get you started:
   <h1 style="color: red">Habilidades</h1>
 <ul>
   🤔
-  <li>JavaScript</li>
+  <li>👉 JavaScript 👈</li>
   
-  <li>Html</li>
+  <li>👉 Html 👈</li>
   
-  <li>css</li>
+  <li>👉 css 👈</li>
   
-  <li>Php</li>
+  <li>👉 Php 👈</li>
   
   </li>
