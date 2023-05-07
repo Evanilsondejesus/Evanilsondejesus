@@ -18,7 +18,7 @@ Here are some ideas to get you started:
    <link rel="stylesheet" type="text/css" href="css.css">
    
    </head>
-  <h1 style="color: red">Habilidades</h1>
+  <h1>Habilidades</h1>
 <ul>
   🤔
   <li>👉 JavaScript 👈</li>
