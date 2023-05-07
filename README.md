@@ -18,7 +18,7 @@ Here are some ideas to get you started:
    <link rel="stylesheet" type="text/css" href="css.css">
    
    </head>
-  <h1>Minhas Habilidades são: </h1>
+  <h1>Minhas habilidades são: </h1>
 <ul>
  
   <li>👉 JavaScript 👈</li>
