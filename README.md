@@ -29,5 +29,11 @@ Here are some ideas to get you started:
   <li>👉<img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />👈</li>
   
   <li>👉<img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> 👈</li>
+
+<li>👉<img align="center" alt="react" src="https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=java&logoColor=61111" /> 👈</li>
+
+
+
+  
   </li> 
   </ul>
